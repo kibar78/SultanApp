@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">SultanApp</string>
+
+    <string name="sultan_name">Nama Sultan</string>
+    <string name="quote">Quote</string>
+    <string name="about">About</string>
+
+    <string name="name">Rizki Akbar Nasir</string>
+    <string name="email">edinrizki36@gmail.com</string>
+
+    <string name="birth">Birth</string>
+    <string name="company">Company</string>
+    <string name="desc">Description</string>
+
+    <string-array name="data_name">
+        <item>Elon Musk</item>
+        <item>Bernard Anault</item>
+        <item>Bill Gates</item>
+        <item>Jeff Bezos</item>
+        <item>Larry Ellison</item>
+        <item>Larry Page</item>
+        <item>Sergey Brin</item>
+        <item>Warren Buffet</item>
+        <item>Mark Zuckerberg</item>
+        <item>Jack Ma</item>
+    </string-array>
+
+    <string-array name="data_quote">
+        <item>Ketekunan sangatlah penting. Kamu tidak boleh menyerah kecuali kamu dipaksa untuk menyerah.</item>
+        <item>Ketika sesuatu harus dilakukan, lakukanlah! Di Prancis, kami penuh dengan ide-ide bagus, tetapi kami jarang mempraktikkannya.</item>
+        <item>Untuk menang besar, terkadang Anda harus mengambil risiko yang besar pula.</item>
+        <item>Jika Anda memikirkan jangka panjang, Anda dapat menghasilkan keputusan yang sangat baik yang tidak akan Anda sesali.</item>
+        <item>Semua orang berpikir strategi akuisisi sangat berisiko karena tidak ada yang pernah berhasil melakukannya. Dengan kata lain, itu adalah sebuah langkah inovatif.</item>
+        <item>Apa pun yang bisa Anda bayangkan mungkin bisa dilakukan, Anda hanya perlu membayangkannya dan mengerjakannya.</item>
+        <item>Jika apa yang kita lakukan tidak dilihat oleh sebagian orang sebagai fiksi ilmiah, itu mungkin tidak cukup transformatif</item>
+        <item>Membutuhkan 20 tahun untuk membangun sebuah reputasi dan 5 menit untuk menghancurkannya.</item>
+        <item>Jika Anda benar-benar melakukan sesuatu yang Anda sukai, itu jauh lebih mudah dan membutuhkan lebih banyak tujuan.</item>
+        <item>Tidak masalah jika saya gagal. Setidaknya saya meneruskan konsep itu kepada orang lain. Bahkan jika saya tidak berhasil, seseorang akan berhasil.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>@drawable/elon_musk</item>
+        <item>@drawable/bernard_anault</item>
+        <item>@drawable/bill_gates</item>
+        <item>@drawable/jeff_bezos</item>
+        <item>@drawable/larry_ellison</item>
+        <item>@drawable/larry_page</item>
+        <item>@drawable/sergey_brin</item>
+        <item>@drawable/warren_buffet</item>
+        <item>@drawable/mark_zuckerberg</item>
+        <item>@drawable/jackma</item>
+    </string-array>
+
+    <string-array name="photo_bg">
+        <item>@drawable/elonmusk_bg</item>
+        <item>@drawable/bernard_anault_bg</item>
+        <item>@drawable/bill_gates_bg</item>
+        <item>@drawable/jeff_bezos_bg</item>
+        <item>@drawable/larry_ellison_bg</item>
+        <item>@drawable/larry_page_bg</item>
+        <item>@drawable/sergey_brin_bg</item>
+        <item>@drawable/warren_buffet_bg</item>
+        <item>@drawable/mark_zuckerberg_bg</item>
+        <item>@drawable/jackma_bg</item>
+    </string-array>
+
+    <string-array name="birth">
+        <item> 28 Juni 1971 (usia 51 tahun)</item>
+        <item> 5 Maret 1949 (usia 74 tahun)</item>
+        <item> 28 Oktober 1955 (usia 67 tahun)</item>
+        <item> 12 Januari 1964 (usia 59 tahun)</item>
+        <item> 17 Agustus 1944 (usia 78 tahun)</item>
+        <item> 26 Maret 1973 (usia 50 tahun)</item>
+        <item> 21 Agustus 1973 (usia 49 tahun)</item>
+        <item> 30 Agustus 1930 (usia 92 tahun)</item>
+        <item> 14 Mei 1984 (usia 39 tahun)</item>
+        <item> 10 September 1964 (usia 58 tahun)</item>
+    </string-array>
+
+    <string-array name="company">
+        <item> Tesla, Inc., SpaceX, Neuralink, The Boring Company, SolarCity (sekarang Tesla Energy), Starlink, Hyperloop, OpenAI. </item>
+        <item> LVMH Moët Hennessy Louis Vuitton, Christian Dior SE, Sephora, Dom Pérignon, Givenchy, Fendi, TAG Heuer. </item>
+        <item> Microsoft Corporation, Cascade Investment, TerraPower, Breakthrough Energy Ventures, bgC3 (Bill Gates Catalyst 3), Corbis Corporation. </item>
+        <item> Amazon.com, Blue Origin, The Washington Post, Bezos Expeditions, Bezos Day One Fund. </item>
+        <item> Oracle Corporation, NetSuite Inc., Ellison Technologies, Pillar Data Systems. </item>
+        <item> Google, Inc. (sekarang Alphabet Inc.), X Development (sebelumnya Google X), Kitty Hawk Corporation, PageRank Inc., Google.org (sebagai salah satu pendiri). </item>
+        <item> Google, Inc. (sekarang Alphabet Inc.), X Development (sebelumnya Google X), Kitty Hawk Corporation, PageRank Inc., Google.org (sebagai salah satu pendiri). </item>
+        <item> Berkshire Hathaway, Dairy Queen, GEICO, Duracell, Clayton Homes, BNSF Railway Company. </item>
+        <item> Facebook, Inc., Instagram, WhatsApp Inc., Oculus VR, Chan Zuckerberg Initiative. </item>
+        <item> Alibaba Group, Ant Group, AliExpress, Taobao, Alipay. </item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>Elon Musk adalah seorang pengusaha dan visioner yang dikenal dengan ambisinya untuk mengubah dunia melalui inovasi teknologi. Sebagai pendiri Tesla dan SpaceX, dia mendorong adopsi mobil listrik dan menjelajahi luar angkasa dengan tujuan menciptakan masa depan yang berkelanjutan dan menjadikan manusia multiplanetar. Musk juga terlibat dalam pengembangan antarmuka otak-komputer melalui Neuralink dan mengatasi masalah kemacetan lalu lintas melalui The Boring Company. Dengan visi jauh ke depan dan keberanian dalam mengambil risiko, Elon Musk telah menginspirasi banyak orang dan menjadi salah satu tokoh paling berpengaruh dalam industri teknologi.</item>
+        <item>Bernard Arnault adalah seorang pengusaha dan filantropis yang terkenal sebagai pemimpin di industri mode dan barang mewah. Sebagai Ketua dan CEO LVMH Moët Hennessy Louis Vuitton, dia telah memimpin perusahaan yang mengendalikan merek-merek bergengsi seperti Louis Vuitton, Dior, Sephora, dan Givenchy. Arnault dikenal sebagai sosok yang vIsioner dan berdedikasi dalam mengembangkan merek-merek ikonik serta menjaga standar keunggulan di industri tersebut. Selain itu, dia juga terlibat dalam berbagai inisiatif filantropi, menunjukkan komitmennya dalam memberikan kembali kepada masyarakat.</item>
+        <item>Bill Gates adalah seorang pengusaha, filantropis, dan visioner teknologi yang terkenal sebagai pendiri Microsoft Corporation. Dikenal sebagai salah satu tokoh terkaya di dunia, Gates telah berperan penting dalam mengubah cara kita hidup dan bekerja melalui revolusi komputer pribadi. Selain kesuksesannya dalam industri teknologi, Gates juga terkenal dengan upayanya dalam filantropi melalui Bill dan Melinda Gates Foundation, di mana dia berkomitmen untuk melawan penyakit-penyakit global, mengurangi kemiskinan, dan meningkatkan pendidikan di seluruh dunia. Bill Gates adalah contoh inspiratif tentang bagaimana teknologi dan kekayaan dapat digunakan untuk menciptakan dampak positif yang besar dalam masyarakat.</item>
+        <item>Jeff Bezos adalah seorang pengusaha dan visioner yang terkenal sebagai pendiri dan mantan CEO Amazon, perusahaan e-commerce terbesar di dunia. Dalam perjalanannya, Bezos telah merevolusi cara orang berbelanja secara online dan mengembangkan Amazon menjadi platform yang menyediakan berbagai produk dan layanan. Dia juga memimpin pengembangan teknologi inovatif seperti Kindle dan Amazon Web Services (AWS), yang telah mengubah industri penerbitan dan layanan cloud computing. Selain kesuksesannya di dunia bisnis, Bezos dikenal dengan dedikasinya dalam eksplorasi luar angkasa melalui perusahaan Blue Origin. Jeff Bezos adalah contoh inspiratif tentang bagaimana ketekunan, visi, dan inovasi dapat mengubah dunia dan menginspirasi generasi mendatang.</item>
+        <item>Larry Ellison adalah seorang pengusaha teknologi dan pendiri Oracle Corporation, perusahaan perangkat lunak dan layanan terkemuka di dunia. Dikenal sebagai salah satu tokoh terkaya di dunia, Ellison telah berperan penting dalam mengembangkan dan memperluas industri database dan perangkat lunak bisnis. Visi dan kepemimpinannya telah membantu Oracle menjadi salah satu pemain utama dalam industri TI. Selain kesuksesannya dalam dunia bisnis, Ellison juga dikenal dengan minatnya dalam perlombaan yacht dan upayanya dalam menyumbangkan kekayaannya untuk kegiatan filantropi, termasuk penelitian medis dan pendidikan. Larry Ellison adalah contoh inspiratif tentang bagaimana inovasi, keberanian, dan keberhasilan dapat mengubah dunia dan memberikan dampak positif yang signifikan.</item>
+        <item>Larry Page adalah seorang pengusaha dan ilmuwan komputer yang terkenal sebagai salah satu pendiri Google. Dikenal dengan visi dan kecerdasannya yang luar biasa, Page berperan penting dalam mengembangkan mesin pencari yang revolusioner dan membangun Google menjadi perusahaan teknologi terkemuka di dunia. Dia memimpin inovasi yang mengubah cara kita mencari informasi dan berinteraksi dengan internet. Selain itu, Page juga dikenal dengan investasinya dalam teknologi baru dan eksplorasi di bidang seperti mobil otonom melalui proyek Waymo. Larry Page adalah contoh inspiratif tentang bagaimana kegigihan dan kreativitas dapat membawa perubahan besar dalam dunia teknologi dan meninggalkan dampak yang signifikan di masa depan.</item>
+        <item>Sergey Brin adalah seorang pengusaha dan ilmuwan komputer yang terkenal sebagai salah satu pendiri Google. Bersama Larry Page, mereka menciptakan mesin pencari revolusioner yang mengubah cara kita mengakses dan menemukan informasi di internet. Brin telah berkontribusi besar dalam mengembangkan teknologi dan algoritma yang menjadi dasar keberhasilan Google. Dia juga terlibat dalam berbagai inisiatif inovatif, seperti Google Glass, yang membawa teknologi ke dunia nyata melalui perangkat wearable. Sebagai seorang visioner, Brin telah menciptakan dampak yang signifikan dalam dunia teknologi dan memberikan inspirasi bagi banyak orang untuk menjelajahi batas-batas inovasi.</item>
+        <item>Warren Buffett adalah seorang investor dan filantropis yang terkenal sebagai salah satu investor paling sukses di dunia. Dikenal dengan kepintarannya dalam mengidentifikasi nilai investasi jangka panjang, Buffett membangun kekayaannya melalui perusahaannya Berkshire Hathaway. Dia dianggap sebagai "Orakel Omaha" karena kebijaksanaan investasinya dan filosofi berinvestasi yang sederhana. Buffett dikenal karena kesederhanaan dan pendekatannya yang bijak terhadap kekayaan dan kesuksesan, serta komitmen filantropinya melalui sumbangan yang signifikan untuk amal dan yayasan. Warren Buffett adalah teladan inspiratif tentang bagaimana kecerdasan finansial dan pengambilan keputusan yang bijaksana dapat menciptakan keberhasilan jangka panjang.</item>
+        <item>Mark Zuckerberg adalah seorang pengusaha dan visioner teknologi yang terkenal sebagai pendiri dan CEO Facebook, jaringan sosial terbesar di dunia. Dengan visinya yang revolusioner, Zuckerberg telah menghubungkan miliaran orang di seluruh dunia melalui platform yang memfasilitasi komunikasi, berbagi informasi, dan membangun komunitas. Selain Facebook, dia juga terlibat dalam berbagai inisiatif seperti Instagram dan WhatsApp yang menjadi bagian integral dalam kehidupan digital banyak orang. Melalui upayanya dalam pengembangan teknologi dan kepeduliannya terhadap isu-isu sosial, Zuckerberg telah mempengaruhi cara kita berinteraksi dan berbagi di era digital ini.</item>
+        <item>Jack Ma adalah seorang pengusaha dan filantropis yang terkenal sebagai pendiri dan mantan chairman dari Alibaba Group, perusahaan e-commerce terkemuka di Tiongkok. Melalui Alibaba, Ma telah mengubah cara bisnis dilakukan dengan memberdayakan jutaan pedagang dan menghubungkan mereka dengan konsumen di seluruh dunia. Dia dianggap sebagai salah satu tokoh paling berpengaruh dalam industri teknologi di Tiongkok. Selain kesuksesannya di bidang bisnis, Jack Ma juga terlibat dalam berbagai inisiatif filantropi, termasuk Jack Ma Foundation, yang berfokus pada pendidikan, lingkungan, dan pemberdayaan pemuda. Jack Ma adalah contoh inspiratif tentang bagaimana semangat wirausaha dan komitmen untuk memberikan dampak positif dapat mengubah kehidupan orang banyak.</item>
+    </string-array>
+</resources>
